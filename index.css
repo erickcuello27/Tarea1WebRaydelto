@@ -1,0 +1,141 @@
+.main-container{ 
+    width: 700px ; 
+    background-color: black ; 
+    margin: auto ; 
+    border: 1px solid #ff0000 ; 
+    box-shadow: 0 0 10px #ff0000 
+}
+
+.image{ 
+    display: block ; 
+    width: 316px ; 
+    margin: 10px ; 
+    float: left 
+}
+
+.clearfix{ clear: both }
+
+.title{ 
+    width: 340px ; 
+    height: 35px ; 
+    margin: 15px 10px 10px 10px ; 
+    color: #b00000 ; 
+    float: right ; 
+    font-family: 'Open Sans Condensed', sans-serif ; 
+    text-align: center ; 
+    font-size: 30px ; 
+    line-height: 30px ; 
+    border-bottom: 1px solid #ff0000 
+}
+
+.nombre{ 
+    width: 340px ; 
+    height: 35px ; 
+    margin: 0px 10px 0px 10px ; 
+    color: #b00000 ; 
+    float: right ; 
+    font-family: 'Open Sans Condensed', sans-serif ; 
+    text-align: center ; 
+    font-size: 20px ; 
+    line-height: 35px ; 
+    border-bottom: 1px solid #ff0000 
+}
+
+.apellido{ 
+    width: 340px ; 
+    height: 35px ; 
+    margin: 0px 10px 0px 10px ; 
+    color: #b00000 ; 
+    float: right ; 
+    font-family: 'Open Sans Condensed', sans-serif ; 
+    text-align: center ; 
+    font-size: 20px ; 
+    line-height: 35px ; 
+    border-bottom: 1px solid #ff0000 
+}
+
+.telefono{ 
+    width: 340px ; 
+    height: 35px ; 
+    margin: 0px 10px 0px 10px ; 
+    color: #b00000 ; 
+    float: right ; 
+    font-family: 'Open Sans Condensed', sans-serif ; 
+    text-align: center ; 
+    font-size: 20px ; 
+    line-height: 35px ; 
+    border-bottom: 1px solid #ff0000 
+}
+
+.direccion1{ 
+    width: 340px ; 
+    height: 35px ; 
+    margin: 0px 10px 0px 10px ; 
+    color: #b00000 ; 
+    float: right ; 
+    font-family: 'Open Sans Condensed', sans-serif ; 
+    text-align: center ; 
+    font-size: 20px ; 
+    line-height: 35px ; 
+    border-bottom: 1px solid #ff0000 
+}
+
+.direccion2{ 
+    width: 340px ; 
+    height: 35px ; 
+    margin: 0px 10px 0px 10px ; 
+    color: #b00000 ; 
+    float: right ; 
+    font-family: 'Open Sans Condensed', sans-serif ; 
+    text-align: center ; 
+    font-size: 20px ; 
+    line-height: 35px ; 
+    border-bottom: 1px solid #ff0000 
+}
+
+.direccion3{ 
+    width: 340px ; 
+    height: 35px ; 
+    margin: 0px 10px 0px 10px ; 
+    color: #b00000 ; 
+    float: right ; 
+    font-family: 'Open Sans Condensed', sans-serif ; 
+    text-align: center ; 
+    font-size: 20px ; 
+    line-height: 35px ; 
+    border-bottom: 1px solid #ff0000 
+}
+
+.redes{ 
+    width: 340px ; 
+    height: 35px ; 
+    margin: 0px 10px 0px 10px ; 
+    color: #b00000 ; 
+    float: right ; 
+    font-family: 'Open Sans Condensed', sans-serif ; 
+    text-align: center ; 
+    font-size: 20px ; 
+    line-height: 35px ; 
+    border-bottom: 1px solid #ff0000 
+}
+
+.subtitle{ 
+    width: 340px ; 
+    height: 35px ; 
+    margin: 0px 10px 10px 10px ; 
+    color: #b00000 ; 
+    font-family: 'Open Sans Condensed', sans-serif ; 
+    text-align: center ; 
+    font-size: 25px ; 
+    line-height: 35px ; 
+    border-bottom: 1px solid #ff0000 
+}
+
+.parrafo{ 
+    margin: 10px ; 
+    padding: 5px ; 
+    color: #808080 ; 
+    text-align: justify ; 
+    font-family: 'PT Sans', sans-serif; 
+    border: 1px solid #ff0000
+}
